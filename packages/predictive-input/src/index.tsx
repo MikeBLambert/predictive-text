@@ -281,6 +281,7 @@ export const PredictiveInput = () => {
                     <div>1 + 2 - delete key character</div>
                     <div>8 + 9 - delete word</div>
                     <div>1 + 3 - punctuation</div>
+                    <div>Hold for 500ms - capitalize</div>
                 </details>
             </div>
         </div>
